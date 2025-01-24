@@ -10,27 +10,24 @@ This project enhances vehicle security by replacing traditional keys with a biom
 ## Directory Structure
 ```
 Fingerprint-Security-System/
-├── README.md                # Project overview and setup instructions
-├── images/                  # Contains visual resources
-│   ├── component_setup.jpg     # Image of the hardware setup
-│   ├── fingerprint_module.jpg  # Close-up of the fingerprint sensor
-│   └── screenshots.jpg         # Screenshots of code output
-├── videos/                  # Contains project demonstration videos
-│   ├── demo_enrollment.mp4     # Enrollment process video
-│   └── demo_verification.mp4   # Fingerprint verification demo
-├── models/                  # Stores fingerprint template files, if applicable
-│   └── example_template.bin    # Example fingerprint data
-├── src/                     # Source code directory
-│   ├── enrollment_code.ino     # Arduino code for enrolling fingerprints
-│   ├── verification_code.ino   # Arduino code for verifying fingerprints
-│   └── utils.h                # Optional utility functions for modularity
-├── docs/                    # Additional documentation
-│   ├── user_manual.pdf         # Detailed user guide
-│   └── technical_specifications.pdf # Sensor and system specifications
-├── circuit-diagrams/        # Contains electronic schematics
-│   └── system_schematic.png    # Full circuit diagram
-├── requirements.txt         # Lists required dependencies and libraries
-└── LICENSE                  # Licensing information for the project
+├── README.md               
+├── images/                  
+│   ├── component_setup.jpg     
+│   ├── fingerprint_module.jpg        
+├── videos/                     
+│   └── demo_verification.mp4   
+├── models/                  
+│   └── example_template.bin    
+├── src/                    
+│   ├── enrollment_code.ino     
+│   ├── verification_code.ino                    
+├── docs/                   
+│   ├── user_manual.pdf         
+│   └── technical_specifications.pdf 
+├── circuit-diagrams/       
+│   └── system_schematic.png    
+├── requirements.txt         
+└── LICENSE                  
 
 ```
 
