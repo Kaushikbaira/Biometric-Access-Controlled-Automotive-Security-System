@@ -9,7 +9,7 @@ This project enhances vehicle security by replacing traditional keys with a biom
 
 ## Directory Structure
 ```
-Fingerprint-Security-System/
+Biometric-Access-Controlled-Automotive-Security-System/
 ├── README.md               
 ├── images/                  
 │   ├── component_setup.jpg     
